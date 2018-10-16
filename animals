@@ -2,5 +2,5 @@
    { "name": "Cat", "speak": "meow" },
    { "name": "Dog", "speak": "woof" },
    { "name": "Pig", "speak": "oink" },
-   { "name": "Donkey", "speak": "eyore" }
+   { "name": "Donkey", "speak": "eeyore" }
 ]
