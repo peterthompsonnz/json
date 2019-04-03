@@ -2,5 +2,9 @@
    { "name": "Cat", "speak": "meow" },
    { "name": "Dog", "speak": "woof" },
    { "name": "Pig", "speak": "oink" },
-   { "name": "Donkey", "speak": "eeyore" }
+   { "name": "Donkey", "speak": "eeyore" },
+   { "name": "Monkey", "speak": "screech" },
+   { "name": "Horse", "speak": "neigh" },
+   { "name": "Cow", "speak": "moo" },
+   { "name": "Bird", "speak": "cheep" }   
 ]
